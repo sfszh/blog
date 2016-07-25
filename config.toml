@@ -1,8 +1,8 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://13.70.188.80/"
 languageCode = "en-us"
-title = "sfszh's blog"
+title = "sfszh's little blog"
 [params]
-Subtitle = "Subtitle"
+Subtitle = "keep it simple"
 GithubID = "sfszh"
 TwitterID = "sfszh"
 #AnalyticsID = "Your Google Analytics tracking code"
