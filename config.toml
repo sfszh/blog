@@ -6,7 +6,8 @@ Subtitle = "keep it simple"
 GithubID = "sfszh"
 TwitterID = "sfszh"
 #AnalyticsID = "Your Google Analytics tracking code"
-DisqusShortname = "disqus_pWTBv4HJ7v"
+
+DisqusShortname = "sfszh"
 Summary = true  # takes true or false
 Content = false  # takes true or false
 
