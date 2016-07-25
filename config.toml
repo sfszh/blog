@@ -1,4 +1,4 @@
-baseurl = "http://13.70.188.80/"
+baseurl = "http://sfszh.org"
 languageCode = "en-us"
 title = "sfszh's little blog"
 [params]
