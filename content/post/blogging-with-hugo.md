@@ -1,6 +1,6 @@
 +++
-date = "2016-07-26T21:01:35+12:00"
-draft = true
+date = "2016-07-26T22:46:37+12:00"
+draft = false
 title = "blogging with hugo"
 
 +++
