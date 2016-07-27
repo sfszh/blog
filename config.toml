@@ -1,4 +1,4 @@
-baseurl = "http://sfszh.org"
+baseurl = "http://sfszh.org/"
 languageCode = "en-us"
 title = "sfszh's little blog"
 [params]
