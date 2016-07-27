@@ -9,4 +9,4 @@ I recent change my blogging system to hugo. With hugo, I can edit blog like code
 
 I am using codeship to continuous deploy it to azure.
 
-foo
+bar
